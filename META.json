@@ -1,0 +1,60 @@
+{
+  "category": "database-management",
+  "created_date": "2025-09-15T23:14:54.042138",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [
+    "python3",
+    "postgresql-client"
+  ],
+  "description": "pgAdmin is the most popular and feature-rich PostgreSQL administration platform",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/database-management/pgadmin",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/database-management/pgadmin",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T23:14:54.042143",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "pgadmin",
+  "repository_url": "https://github.com/howtomgr/pgadmin",
+  "spec_version": "2.0",
+  "subcategory": "database-management",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "database",
+    "postgresql",
+    "web-interface",
+    "administration"
+  ],
+  "title": "Pgadmin",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/database-management/pgadmin"
+}
